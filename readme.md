@@ -388,8 +388,6 @@ The NIH Chest X-ray dataset is provided with no restrictions for research use. P
 - **NIH Clinical Center** for providing the chest X-ray dataset
 - **NIH National Library of Medicine** for the original research
 - **Kaggle Community** for dataset hosting and discussions
-- **TensorFlow/Keras Team** for the deep learning framework
-- **Hugging Face** for model hosting and sharing infrastructure
 
 ## 🔗 Related Projects
 
@@ -400,9 +398,8 @@ The NIH Chest X-ray dataset is provided with no restrictions for research use. P
 ## 📞 Contact & Support
 
 - **Author**: Shrey Joshi
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [shreyjoshi199@gmail.com](mailto:your.email@example.com)
 - **GitHub**: [@ShreyJoshi74](https://github.com/ShreyJoshi74)
-- **Issues**: [GitHub Issues](https://github.com/ShreyJoshi74/X-Ray-Abnormality-Detection/issues)
 
 ---
 
